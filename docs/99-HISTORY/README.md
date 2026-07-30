@@ -1,44 +1,26 @@
 ---
+title: "History Archive"
+document_id: "HISTORY_ARCHIVE_README"
+version: "1.0.0"
+status: "Draft"
+document_type: "Historical Repository Guide"
+governance_level: "Foundation"
+owner: "BHG Ecosystem Foundation"
+approval_authority: "BHG Governance Council"
+created: "2026-07-30"
+last_updated: "2026-07-30"
+effective_date: "TBD"
+classification: "Internal"
+language: "en"
+repository: "BHG-Ecosystem-Foundation"
 
-title: History Archive
-document_id: HISTORY_ARCHIVE_README
-version: 1.0.0
-status: Draft
-document_type: Historical Repository Guide
-governance_level: Foundation
-owner: BHG Ecosystem Foundation
-approval_authority: BHG Governance Council
-created: 2026-07-30
-last_updated: 2026-07-30
-effective_date: TBD
-classification: Internal
-language: en
-repository: BHG-Ecosystem-Foundation
+governed_by: ["ARCHITECTURE_MAP.md", "docs/00-FOUNDATION/FOUNDATION_PRINCIPLES.md", "docs/06-EVOLUTION/FOUNDATION_NORMALIZATION_ROADMAP.md"]
 
-governed_by:
+governs: ["Historical Archive Organization", "Historical Record Classification", "Historical Evidence Preservation"]
 
-* ARCHITECTURE_MAP.md
-* docs/00-FOUNDATION/FOUNDATION_PRINCIPLES.md
-* docs/06-EVOLUTION/FOUNDATION_NORMALIZATION_ROADMAP.md
+depends_on: ["ARCHITECTURE_MAP.md", "docs/06-EVOLUTION/FOUNDATION_NORMALIZATION_ROADMAP.md"]
 
-governs:
-
-* Historical Archive Organization
-* Historical Record Classification
-* Historical Evidence Preservation
-
-depends_on:
-
-* ARCHITECTURE_MAP.md
-* docs/06-EVOLUTION/FOUNDATION_NORMALIZATION_ROADMAP.md
-
-related_to:
-
-* CHANGELOG.md
-* docs/06-EVOLUTION/EVOLUTION_MODEL.md
-* docs/06-EVOLUTION/MATURITY_MODEL.md
-* docs/04-REPOSITORIES/REPOSITORY_LIFECYCLE.md
-
+related_to: ["CHANGELOG.md", "docs/06-EVOLUTION/EVOLUTION_MODEL.md", "docs/06-EVOLUTION/MATURITY_MODEL.md", "docs/04-REPOSITORIES/REPOSITORY_LIFECYCLE.md"]
 ---
 
 # History Archive
