@@ -1,0 +1,300 @@
+# BHG PROPRIETARY LICENSE
+
+**Version:** 1.0.0
+**Effective Date:** TBD
+**Copyright Owner:** Luis F. Breto R.
+**Licensed Organization:** Breto's Holding Group (BHG)
+**License Type:** Proprietary Institutional Use License
+
+---
+
+## 1. Copyright and Ownership
+
+Unless expressly stated otherwise in a written agreement, all original software, documentation, architectures, models, methodologies, designs, specifications, schemas, written materials, and other copyrightable works contained in this repository are proprietary intellectual property of:
+
+**Luis F. Breto R.**
+
+All rights not expressly granted under this license are reserved by the copyright owner.
+
+Nothing in this license constitutes a transfer, assignment, sale, or conveyance of ownership of the intellectual property to BHG or to any other person or entity.
+
+---
+
+## 2. License Grant to BHG
+
+The copyright owner grants Breto's Holding Group (BHG) an exclusive institutional license to use the intellectual property contained in this repository for purposes related to the creation, development, operation, administration, governance, commercialization, and evolution of the BHG ecosystem.
+
+The license includes, to the extent necessary for BHG's authorized activities:
+
+* use;
+* reproduction;
+* internal modification;
+* integration;
+* adaptation;
+* internal distribution;
+* deployment;
+* maintenance;
+* creation of derivative works;
+* commercialization within the BHG ecosystem.
+
+The license applies to BHG and to entities formally recognized as part of the BHG ecosystem, subject to applicable governance rules and written agreements.
+
+---
+
+## 3. Ownership Remains With the Copyright Owner
+
+The granting of this license does not transfer intellectual property ownership.
+
+The copyright owner retains all ownership rights, including the right to:
+
+* create derivative works;
+* modify the intellectual property;
+* commercialize the intellectual property;
+* license the intellectual property;
+* assign rights where legally permitted;
+* create new products based on the intellectual property;
+* use the intellectual property independently from BHG.
+
+---
+
+## 4. Reserved Third-Party Commercialization Rights
+
+Notwithstanding the BHG institutional license, the copyright owner expressly reserves the right to independently offer, license, commercialize, distribute, or otherwise authorize the use of products, services, technologies, methodologies, or other intellectual property derived from or incorporating the licensed works to third parties outside the BHG ecosystem.
+
+Such external commercialization does not constitute a transfer of ownership to those third parties.
+
+Any specific commercial, exclusivity, territorial, sector-specific, or other restriction shall be established only through an applicable written agreement.
+
+---
+
+## 5. No Automatic Third-Party License
+
+This license does not grant the general public or unrelated third parties any right to use, reproduce, modify, distribute, commercialize, sublicense, or create derivative works from the intellectual property.
+
+Third-party use requires separate authorization from the copyright owner or another legally authorized rights holder.
+
+---
+
+## 6. BHG Internal Use
+
+BHG may use and modify the licensed intellectual property as necessary to operate its ecosystem.
+
+BHG may incorporate the licensed intellectual property into:
+
+* companies;
+* subsidiaries;
+* subholdings;
+* products;
+* services;
+* software;
+* infrastructure;
+* governance systems;
+* knowledge systems;
+* operational systems;
+* commercial offerings.
+
+Such use does not transfer ownership of the underlying intellectual property.
+
+---
+
+## 7. Sublicensing and Assignment
+
+BHG may not assign ownership of the intellectual property or sublicense rights granted under this license to unrelated third parties unless expressly authorized by the copyright owner through a separate written agreement.
+
+Contracts between the copyright owner and BHG may establish different or additional rights.
+
+Where a written agreement conflicts with this license, the written agreement shall govern only to the extent expressly provided.
+
+---
+
+## 8. Derivative Works
+
+BHG may create derivative works from the licensed intellectual property for authorized BHG purposes.
+
+Derivative works remain subject to the ownership and licensing framework established by this license unless a separate written agreement provides otherwise.
+
+Creation of a derivative work does not, by itself, transfer ownership of the original intellectual property.
+
+---
+
+## 9. Third-Party Components
+
+This license applies only to intellectual property owned or controlled by the copyright owner.
+
+Third-party software, libraries, frameworks, documentation, trademarks, data, fonts, or other materials included in or associated with the repository may be subject to separate licenses or contractual restrictions.
+
+Nothing in this license overrides those independent rights.
+
+---
+
+## 10. Trademarks and Brand Assets
+
+Unless expressly authorized in writing, this license does not grant rights to trademarks, service marks, trade names, logos, or other protected brand assets belonging to the copyright owner or BHG.
+
+Trademark rights shall be governed separately where required.
+
+---
+
+## 11. Attribution
+
+Where legally and technically appropriate, copies or substantial derivative distributions of the licensed materials shall preserve applicable copyright and ownership notices.
+
+BHG shall not remove ownership notices for the purpose of representing the intellectual property as independently created by BHG.
+
+---
+
+## 12. Confidentiality
+
+This license does not automatically classify repository contents as confidential.
+
+Confidentiality obligations may be established through:
+
+* employment agreements;
+* contractor agreements;
+* shareholder agreements;
+* NDAs;
+* commercial agreements;
+* governance instruments;
+* other written contracts.
+
+Confidential information shall be handled according to the applicable agreement.
+
+---
+
+## 13. Security and Responsible Use
+
+BHG shall use the licensed intellectual property in accordance with applicable:
+
+* legal requirements;
+* contractual obligations;
+* governance requirements;
+* security requirements.
+
+No provision of this license authorizes unlawful use.
+
+---
+
+## 14. Termination
+
+This license remains effective unless terminated according to its applicable terms or a separate written agreement.
+
+Upon termination, BHG shall cease unauthorized new use of the licensed intellectual property, subject to:
+
+* applicable contractual rights;
+* legal obligations;
+* archival requirements;
+* transitional arrangements;
+* rights expressly preserved by written agreement.
+
+Termination shall not retroactively invalidate rights lawfully exercised before termination unless required by applicable law or contract.
+
+---
+
+## 15. Written Agreements
+
+The copyright owner and BHG may establish additional or different rights through written agreements.
+
+Such agreements may define:
+
+* exclusivity;
+* territorial rights;
+* commercial rights;
+* sublicensing;
+* royalties;
+* ownership of improvements;
+* confidentiality;
+* support obligations;
+* product commercialization;
+* assignment of specific rights;
+* termination conditions.
+
+A specific written agreement shall prevail over this general repository license to the extent of any express conflict.
+
+---
+
+## 16. No Implied Rights
+
+No right, license, authorization, ownership interest, or permission shall be implied beyond the rights expressly granted in this license or an applicable written agreement.
+
+---
+
+## 17. No Warranty
+
+The intellectual property is provided under this license without warranties except where expressly established by a separate written agreement or required by applicable law.
+
+To the maximum extent permitted by applicable law, the copyright owner disclaims implied warranties relating to:
+
+* merchantability;
+* fitness for a particular purpose;
+* non-infringement;
+* uninterrupted operation;
+* error-free operation.
+
+---
+
+## 18. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the copyright owner shall not be liable for indirect, incidental, special, consequential, or punitive damages arising from the use of the licensed intellectual property, except where such limitation is prohibited by applicable law or modified by written agreement.
+
+---
+
+## 19. Interpretation
+
+This license shall be interpreted according to its express terms.
+
+No provision shall be interpreted as transferring ownership of the intellectual property unless a separate written agreement expressly provides for such transfer.
+
+---
+
+## 20. Effective Scope
+
+This license applies to original intellectual property contained in this repository that is owned by:
+
+**Luis F. Breto R.**
+
+It does not automatically govern:
+
+* third-party materials;
+* externally licensed assets;
+* independently owned contributions;
+* assets subject to separate written agreements.
+
+---
+
+## 21. Ownership Notice
+
+Copyright © 2026 Luis F. Breto R.
+
+All rights reserved except those expressly granted under this license or an applicable written agreement.
+
+---
+
+## 22. Contact and Licensing Authority
+
+The copyright owner retains authority to grant additional licenses or negotiate separate licensing agreements.
+
+**Copyright Owner:**
+Luis F. Breto R.
+
+**Institutional Licensee:**
+Breto's Holding Group (BHG)
+
+---
+
+## 23. Final Reservation of Rights
+
+All rights not expressly granted to BHG under this license are reserved by the copyright owner.
+
+The copyright owner retains the right to independently develop, license, commercialize, distribute, or otherwise exploit the intellectual property outside the BHG ecosystem, subject to any separate written agreement that expressly provides otherwise.
+
+---
+
+# Institutional Principle
+
+> Ownership remains with the creator.
+
+> Institutional use is authorized through licensing.
+
+> Strategic exclusivity is contractual.
+
+> All rights not expressly granted remain reserved.
