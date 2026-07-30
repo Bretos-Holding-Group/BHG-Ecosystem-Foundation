@@ -1,0 +1,144 @@
+# ==========================================
+# BHG-Ecosystem-Foundation
+# Repository Ignore Rules
+# ==========================================
+
+# --------------------
+# Operating System
+# --------------------
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+
+
+# --------------------
+# Editors / IDEs
+# --------------------
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+.idea/
+*.swp
+*.swo
+*~
+
+
+# --------------------
+# Environment / Secrets
+# --------------------
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+*.pem
+*.key
+*.crt
+
+
+# --------------------
+# Node.js / JavaScript
+# --------------------
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+.npm/
+.pnpm-store/
+
+
+# --------------------
+# Python
+# --------------------
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+*.egg-info/
+dist/
+build/
+
+
+# --------------------
+# Build / Coverage
+# --------------------
+
+coverage/
+.coverage
+htmlcov/
+
+.next/
+out/
+.vercel/
+
+*.log
+
+
+# --------------------
+# Temporary Files
+# --------------------
+
+*.tmp
+*.temp
+*.bak
+*.orig
+
+.tmp/
+temp/
+
+
+# --------------------
+# Generated Local Data
+# --------------------
+
+*.sqlite
+*.sqlite3
+*.db
+
+.cache/
+.cache-local/
+
+
+# --------------------
+# AI / Tool Runtime
+# --------------------
+
+.cursor/
+.copilot/
+.claude/
+
+# Local AI runtime artifacts
+.ai-local/
+.ggc-local/
+
+
+# --------------------
+# Generated Reports
+# --------------------
+
+# Keep official audit reports version-controlled.
+# Ignore only explicitly local/generated report folders.
+
+reports/.local/
+audit/.local/
