@@ -1,17 +1,17 @@
 ---
 title: Foundation Vision
-document_id: FOUNDATION_VISION
+document_id: BHG-EF-FOUND-002
 version: 1.0.0
 status: Approved
-document_type: Foundation
-governance_level: Ecosystem
-owner: BHG Foundation Council
-approval_authority: BHG Foundation Council
+document_type: Foundation Vision
+governance_level: Foundation
+owner: Founder
+approval_authority: Founder
 created: 2026-07-24
 last_updated: 2026-07-24
 effective_date: 2026-07-24
 classification: Internal
-language: English
+language: en
 repository: BHG-Ecosystem-Foundation
 
 governed_by:
@@ -22,7 +22,7 @@ governs:
   - FOUNDATION_VALUES.md
   - FOUNDATION_PRINCIPLES.md
   - FOUNDATION_PHILOSOPHY.md
-  - IDENTITY_MODEL.md
+  - CORPORATE_IDENTITY_MODEL.md
   - ECOSYSTEM_MODEL.md
   - ORGANIZATION_MODEL.md
 
