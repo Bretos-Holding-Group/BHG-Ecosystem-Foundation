@@ -1,12 +1,12 @@
 ---
 title: Foundation Philosophy
-document_id: FOUNDATION_PHILOSOPHY
+document_id: BHG-EF-FOUND-006
 version: 1.0.0
 status: Draft
-document_type: Foundation Document
+document_type: Foundation Philosophy
 governance_level: Foundation
-owner: Breto's Holding Group
-approval_authority: BHG Governance Council
+owner: Founder
+approval_authority: Founder
 created: 2026-07-24
 last_updated: 2026-07-24
 effective_date: 2026-07-24
