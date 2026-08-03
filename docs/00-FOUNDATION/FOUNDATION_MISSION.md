@@ -1,12 +1,12 @@
 ---
 title: Foundation Mission
-document_id: FOUNDATION_MISSION
+document_id: BHG-EF-FOUND-003
 version: 1.0.0
 status: Draft
-document_type: Foundation Document
+document_type: Foundation Mission
 governance_level: Foundation
-owner: Breto's Holding Group
-approval_authority: BHG Governance Council
+owner: Founder
+approval_authority: Founder
 created: 2026-07-24
 last_updated: 2026-07-24
 effective_date: 2026-07-24
@@ -34,7 +34,6 @@ related_to:
   - GOVERNANCE_MODEL.md
   - HOLDING_MODEL.md
 ---
-
 # Foundation Mission
 
 > Defines the permanent institutional mission of Breto's Holding Group.
