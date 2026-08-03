@@ -4,14 +4,14 @@ document_id: BHG-EF-FOUND-001
 version: 1.0.0
 status: Approved
 document_type: Foundation Manifesto
-governance_level: Foundational
+governance_level: Foundation
 owner: Founder
 approval_authority: Founder
 created: 2026-07-24
 last_updated: 2026-07-24
 effective_date: 2026-07-24
 classification: Internal
-language: English
+language: en
 repository: BHG-Ecosystem-Foundation
 
 governed_by: []
