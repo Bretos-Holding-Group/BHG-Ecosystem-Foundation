@@ -1,7 +1,7 @@
 ---
 title: Foundation Vision
 document_id: BHG-EF-FOUND-002
-version: 1.0.0
+version: 1.0.1
 status: Approved
 document_type: Foundation Vision
 governance_level: Foundation
@@ -22,7 +22,7 @@ governs:
   - FOUNDATION_VALUES.md
   - FOUNDATION_PRINCIPLES.md
   - FOUNDATION_PHILOSOPHY.md
-  - CORPORATE_IDENTITY_MODEL.md
+  - IDENTITY_MODEL.md
   - ECOSYSTEM_MODEL.md
   - ORGANIZATION_MODEL.md
 
