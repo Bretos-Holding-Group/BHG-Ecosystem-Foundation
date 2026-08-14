@@ -15,8 +15,7 @@ language: en
 repository: BHG-Ecosystem-Foundation
 
 governed_by:
-  - BHG-EcosYSTEM-FOUNDATION_ARCHITECTURE
-
+  - ARCHITECTURE_MAP
 depends_on:
   - BHG_REPOSITORY_AUTHORITY_SEQUENCE
 related_to:
